@@ -1,0 +1,40 @@
+<nav class="FingerFood-navbar">
+  <div class="logo">
+    <img src="../assets/home/צילום מסך 2025-11-10 000811.png" alt=" logo" class="hero-image">
+  </div>
+
+  <ul class="nav-links">
+    <li><a href="/">Home</a></li>
+    <li><a href="/product-list">Products</a></li>
+    <li><a href="/shopping-cart">Shopping cart</a></li>
+  </ul>
+
+  <div class="user-wrapper" *ngIf="userFirstLetter">
+    <div class="user-circle" (click)="logout()">
+      <span class="letter">{{ userFirstLetter }}</span>
+      <span class="logout-text">התנתקות</span>
+    </div>
+  </div>
+</nav>
+
+<router-outlet></router-outlet>
+<footer class="luxury-footer">
+  <div class="footer-glow"></div>
+
+  <h2 class="footer-title">
+    FINGER FOOD – מסעדת פרימיום קולינרית
+  </h2>
+
+  <p class="footer-text">
+    במסעדת Finger Food אנו מאמינים שחוויה קולינרית אמיתית מתחילה בפרטים הקטנים — 
+    שילוב מדויק בין טעמים מודרניים, חומרי גלם מוקפדים ועיצוב מרהיב.  
+    אצלנו כל מנה היא יצירת אמנות, וכל ביקור הוא רגע בלתי נשכח של אלגנטיות וסטייל.
+  </p>
+
+  <div class="footer-line"></div>
+
+  <p class="footer-brand">© Finger Food Luxury Dining</p>
+</footer>
+
+
+

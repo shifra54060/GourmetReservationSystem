@@ -1,0 +1,34 @@
+<div class="product-details-container">
+
+   
+  
+
+    <div class="product-card" *ngIf="product">
+        
+        <div class="image-wrapper">
+            <img [src]="serverBaseUrl + '/' + product.imageUrl" alt="{{ product.name }}">
+        </div>
+
+        <div class="product-info">
+              <button class="back-button" (click)="goBack()"> חזרה למוצרים</button>
+            <h3>{{ product.name }}</h3>
+            <p>{{ product.description }}</p>
+            <p>גודל: {{ product.size }}</p>
+            <p *ngIf="product.isVegan">✅ טבעוני</p>
+            <p *ngIf="product.isGlutenFree">✅ ללא גלוטן</p>
+
+            <div class="price-and-actions">
+                <span class="price">{{ product.price | currency:'ILS':'symbol':'1.0-0' }}</span>
+                <button (click)="myService.addToCart(product)" class="add-to-cart-btn">
+                    הוספה לסל
+                </button>
+            </div>
+        </div>
+
+    </div>
+
+    <div *ngIf="!product">
+        <p>טוען פרטי מוצר או המוצר לא נמצא.</p>
+    </div>
+
+</div>

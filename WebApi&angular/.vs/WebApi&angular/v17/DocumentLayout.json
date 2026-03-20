@@ -1,0 +1,604 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\dal\\dalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|solutionrelative:dal\\dalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267EDAED-819D-42CC-A7E0-34C60E9D6130}|IBll\\IBll.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\ibll\\ibllservecis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267EDAED-819D-42CC-A7E0-34C60E9D6130}|IBll\\IBll.csproj|solutionrelative:ibll\\ibllservecis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2577687-3E22-45CC-A0C3-F549B9F7A996}|WebApi\u0026angular\\WebApi\u0026angular.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\webapi\u0026angular\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2577687-3E22-45CC-A0C3-F549B9F7A996}|WebApi\u0026angular\\WebApi\u0026angular.csproj|solutionrelative:webapi\u0026angular\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2577687-3E22-45CC-A0C3-F549B9F7A996}|WebApi\u0026angular\\WebApi\u0026angular.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\webapi\u0026angular\\controllers\\shoppingdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2577687-3E22-45CC-A0C3-F549B9F7A996}|WebApi\u0026angular\\WebApi\u0026angular.csproj|solutionrelative:webapi\u0026angular\\controllers\\shoppingdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2577687-3E22-45CC-A0C3-F549B9F7A996}|WebApi\u0026angular\\WebApi\u0026angular.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\webapi\u0026angular\\controllers\\shoppingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2577687-3E22-45CC-A0C3-F549B9F7A996}|WebApi\u0026angular\\WebApi\u0026angular.csproj|solutionrelative:webapi\u0026angular\\controllers\\shoppingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2577687-3E22-45CC-A0C3-F549B9F7A996}|WebApi\u0026angular\\WebApi\u0026angular.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\webapi\u0026angular\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2577687-3E22-45CC-A0C3-F549B9F7A996}|WebApi\u0026angular\\WebApi\u0026angular.csproj|solutionrelative:webapi\u0026angular\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2577687-3E22-45CC-A0C3-F549B9F7A996}|WebApi\u0026angular\\WebApi\u0026angular.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\webapi\u0026angular\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2577687-3E22-45CC-A0C3-F549B9F7A996}|WebApi\u0026angular\\WebApi\u0026angular.csproj|solutionrelative:webapi\u0026angular\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22224AAC-7085-433D-99A9-3946BA57C535}|Bll\\Bll.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\bll\\bllservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22224AAC-7085-433D-99A9-3946BA57C535}|Bll\\Bll.csproj|solutionrelative:bll\\bllservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF1CBFD-8294-4961-9EF1-BBFEFFAB4A6E}|IDal\\IDal.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\idal\\itransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF1CBFD-8294-4961-9EF1-BBFEFFAB4A6E}|IDal\\IDal.csproj|solutionrelative:idal\\itransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\dal\\converters\\converterscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|solutionrelative:dal\\converters\\converterscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2577687-3E22-45CC-A0C3-F549B9F7A996}|WebApi\u0026angular\\WebApi\u0026angular.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\webapi\u0026angular\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2577687-3E22-45CC-A0C3-F549B9F7A996}|WebApi\u0026angular\\WebApi\u0026angular.csproj|solutionrelative:webapi\u0026angular\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\dal\\models\\fingerfoodstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|solutionrelative:dal\\models\\fingerfoodstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\dal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|solutionrelative:dal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|solutionrelative:dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2577687-3E22-45CC-A0C3-F549B9F7A996}|WebApi\u0026angular\\WebApi\u0026angular.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\webapi\u0026angular\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2577687-3E22-45CC-A0C3-F549B9F7A996}|WebApi\u0026angular\\WebApi\u0026angular.csproj|solutionrelative:webapi\u0026angular\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2577687-3E22-45CC-A0C3-F549B9F7A996}|WebApi\u0026angular\\WebApi\u0026angular.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\webapi\u0026angular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2577687-3E22-45CC-A0C3-F549B9F7A996}|WebApi\u0026angular\\WebApi\u0026angular.csproj|solutionrelative:webapi\u0026angular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2577687-3E22-45CC-A0C3-F549B9F7A996}|WebApi\u0026angular\\WebApi\u0026angular.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\webapi\u0026angular\\webapi\u0026angular.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2577687-3E22-45CC-A0C3-F549B9F7A996}|WebApi\u0026angular\\WebApi\u0026angular.csproj|solutionrelative:webapi\u0026angular\\webapi\u0026angular.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22224AAC-7085-433D-99A9-3946BA57C535}|Bll\\Bll.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22224AAC-7085-433D-99A9-3946BA57C535}|Bll\\Bll.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D477096-158E-463D-BF5E-DFD68148EB8E}|DTO\\DTO.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\dto\\modelsdto\\tabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D477096-158E-463D-BF5E-DFD68148EB8E}|DTO\\DTO.csproj|solutionrelative:dto\\modelsdto\\tabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\dal\\converters\\converterscustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|solutionrelative:dal\\converters\\converterscustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D477096-158E-463D-BF5E-DFD68148EB8E}|DTO\\DTO.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\dto\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D477096-158E-463D-BF5E-DFD68148EB8E}|DTO\\DTO.csproj|solutionrelative:dto\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\dal\\converters\\convertersshoppingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|solutionrelative:dal\\converters\\convertersshoppingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\dal\\converters\\convertersshopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|solutionrelative:dal\\converters\\convertersshopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\dal\\converters\\convertersproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|solutionrelative:dal\\converters\\convertersproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D477096-158E-463D-BF5E-DFD68148EB8E}|DTO\\DTO.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\dto\\modelsdto\\shoppingdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D477096-158E-463D-BF5E-DFD68148EB8E}|DTO\\DTO.csproj|solutionrelative:dto\\modelsdto\\shoppingdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|solutionrelative:dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D477096-158E-463D-BF5E-DFD68148EB8E}|DTO\\DTO.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\dto\\modelsdto\\shoppingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D477096-158E-463D-BF5E-DFD68148EB8E}|DTO\\DTO.csproj|solutionrelative:dto\\modelsdto\\shoppingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\dal\\converters\\converterstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|solutionrelative:dal\\converters\\converterstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D477096-158E-463D-BF5E-DFD68148EB8E}|DTO\\DTO.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\dto\\modelsdto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D477096-158E-463D-BF5E-DFD68148EB8E}|DTO\\DTO.csproj|solutionrelative:dto\\modelsdto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2577687-3E22-45CC-A0C3-F549B9F7A996}|WebApi\u0026angular\\WebApi\u0026angular.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\webapi\u0026angular\\webapi\u0026angular.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2577687-3E22-45CC-A0C3-F549B9F7A996}|WebApi\u0026angular\\WebApi\u0026angular.csproj|solutionrelative:webapi\u0026angular\\webapi\u0026angular.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\dal\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|solutionrelative:dal\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D477096-158E-463D-BF5E-DFD68148EB8E}|DTO\\DTO.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\dto\\modelsdto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D477096-158E-463D-BF5E-DFD68148EB8E}|DTO\\DTO.csproj|solutionrelative:dto\\modelsdto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\dal\\models\\shopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|solutionrelative:dal\\models\\shopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D477096-158E-463D-BF5E-DFD68148EB8E}|DTO\\DTO.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\dto\\modelsdto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D477096-158E-463D-BF5E-DFD68148EB8E}|DTO\\DTO.csproj|solutionrelative:dto\\modelsdto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267EDAED-819D-42CC-A7E0-34C60E9D6130}|IBll\\IBll.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\ibll\\ibll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{267EDAED-819D-42CC-A7E0-34C60E9D6130}|IBll\\IBll.csproj|solutionrelative:ibll\\ibll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|c:\\users\\\u05E9\u05E4\u05E8\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\webapi\u0026angular\\dal\\models\\shoppingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F5C6F5-B08B-4EA1-969F-2AFB747775C3}|Dal\\Dal.csproj|solutionrelative:dal\\models\\shoppingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBllServecis.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\IBll\\IBllServecis.cs",
+              "RelativeDocumentMoniker": "IBll\\IBllServecis.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\IBll\\IBllServecis.cs",
+              "RelativeToolTip": "IBll\\IBllServecis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:13:28.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\WebApi\u0026angular\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApi\u0026angular\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\WebApi\u0026angular\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApi\u0026angular\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswBgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:38:40.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoppingController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\WebApi\u0026angular\\Controllers\\ShoppingController.cs",
+              "RelativeDocumentMoniker": "WebApi\u0026angular\\Controllers\\ShoppingController.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\WebApi\u0026angular\\Controllers\\ShoppingController.cs",
+              "RelativeToolTip": "WebApi\u0026angular\\Controllers\\ShoppingController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T16:25:07.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\WebApi\u0026angular\\Controllers\\ShoppingDetailController.cs",
+              "RelativeDocumentMoniker": "WebApi\u0026angular\\Controllers\\ShoppingDetailController.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\WebApi\u0026angular\\Controllers\\ShoppingDetailController.cs",
+              "RelativeToolTip": "WebApi\u0026angular\\Controllers\\ShoppingDetailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T20:24:13.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TableController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\WebApi\u0026angular\\Controllers\\TableController.cs",
+              "RelativeDocumentMoniker": "WebApi\u0026angular\\Controllers\\TableController.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\WebApi\u0026angular\\Controllers\\TableController.cs",
+              "RelativeToolTip": "WebApi\u0026angular\\Controllers\\TableController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:28:49.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\DalRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\DalRepository.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\DalRepository.cs",
+              "RelativeToolTip": "Dal\\DalRepository.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:49:49.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\WebApi\u0026angular\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebApi\u0026angular\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\WebApi\u0026angular\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebApi\u0026angular\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:07:03.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BllServices.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Bll\\BllServices.cs",
+              "RelativeDocumentMoniker": "Bll\\BllServices.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Bll\\BllServices.cs",
+              "RelativeToolTip": "Bll\\BllServices.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:17:37.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITransaction.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\IDal\\ITransaction.cs",
+              "RelativeDocumentMoniker": "IDal\\ITransaction.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\IDal\\ITransaction.cs",
+              "RelativeToolTip": "IDal\\ITransaction.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA5wDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:17:00.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConvertersCategory.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\Converters\\ConvertersCategory.cs",
+              "RelativeDocumentMoniker": "Dal\\Converters\\ConvertersCategory.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\Converters\\ConvertersCategory.cs",
+              "RelativeToolTip": "Dal\\Converters\\ConvertersCategory.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwBkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:56:56.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\WebApi\u0026angular\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "WebApi\u0026angular\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\WebApi\u0026angular\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "WebApi\u0026angular\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T07:47:31.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FingerFoodStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\models\\FingerFoodStoreContext.cs",
+              "RelativeDocumentMoniker": "Dal\\models\\FingerFoodStoreContext.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\models\\FingerFoodStoreContext.cs",
+              "RelativeToolTip": "Dal\\models\\FingerFoodStoreContext.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAwwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T20:13:28.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\models\\Customer.cs",
+              "RelativeDocumentMoniker": "Dal\\models\\Customer.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\models\\Customer.cs",
+              "RelativeToolTip": "Dal\\models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T21:13:40.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\models\\Category.cs",
+              "RelativeDocumentMoniker": "Dal\\models\\Category.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\models\\Category.cs",
+              "RelativeToolTip": "Dal\\models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:59:33.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\WebApi\u0026angular\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\u0026angular\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\WebApi\u0026angular\\appsettings.json",
+              "RelativeToolTip": "WebApi\u0026angular\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-22T22:09:51.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\WebApi\u0026angular\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\u0026angular\\Program.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\WebApi\u0026angular\\Program.cs",
+              "RelativeToolTip": "WebApi\u0026angular\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T20:43:41.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WebApi\u0026angular.http",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\WebApi\u0026angular\\WebApi\u0026angular.http",
+              "RelativeDocumentMoniker": "WebApi\u0026angular\\WebApi\u0026angular.http",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\WebApi\u0026angular\\WebApi\u0026angular.http",
+              "RelativeToolTip": "WebApi\u0026angular\\WebApi\u0026angular.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-11T08:27:08.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Bll.csproj",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Bll\\Bll.csproj",
+              "RelativeDocumentMoniker": "Bll\\Bll.csproj",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Bll\\Bll.csproj",
+              "RelativeToolTip": "Bll\\Bll.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-24T15:59:32.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TableDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\DTO\\modelsDTO\\TableDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\modelsDTO\\TableDTO.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\DTO\\modelsDTO\\TableDTO.cs",
+              "RelativeToolTip": "DTO\\modelsDTO\\TableDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:33:46.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConvertersCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\Converters\\ConvertersCustomer.cs",
+              "RelativeDocumentMoniker": "Dal\\Converters\\ConvertersCustomer.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\Converters\\ConvertersCustomer.cs",
+              "RelativeToolTip": "Dal\\Converters\\ConvertersCustomer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T07:03:35.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DTO.csproj",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\DTO\\DTO.csproj",
+              "RelativeDocumentMoniker": "DTO\\DTO.csproj",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\DTO\\DTO.csproj",
+              "RelativeToolTip": "DTO\\DTO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T18:58:13.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ConvertersShoppingDetails.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\Converters\\ConvertersShoppingDetails.cs",
+              "RelativeDocumentMoniker": "Dal\\Converters\\ConvertersShoppingDetails.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\Converters\\ConvertersShoppingDetails.cs",
+              "RelativeToolTip": "Dal\\Converters\\ConvertersShoppingDetails.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:48:09.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConvertersShopping.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\Converters\\ConvertersShopping.cs",
+              "RelativeDocumentMoniker": "Dal\\Converters\\ConvertersShopping.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\Converters\\ConvertersShopping.cs",
+              "RelativeToolTip": "Dal\\Converters\\ConvertersShopping.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwDgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:28:53.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConvertersProduct.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\Converters\\ConvertersProduct.cs",
+              "RelativeDocumentMoniker": "Dal\\Converters\\ConvertersProduct.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\Converters\\ConvertersProduct.cs",
+              "RelativeToolTip": "Dal\\Converters\\ConvertersProduct.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:28:34.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ShoppingDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\DTO\\modelsDTO\\ShoppingDetailDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\modelsDTO\\ShoppingDetailDTO.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\DTO\\modelsDTO\\ShoppingDetailDTO.cs",
+              "RelativeToolTip": "DTO\\modelsDTO\\ShoppingDetailDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA5wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:51:02.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\models\\Product.cs",
+              "RelativeDocumentMoniker": "Dal\\models\\Product.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\models\\Product.cs",
+              "RelativeToolTip": "Dal\\models\\Product.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:38:30.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShoppingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\DTO\\modelsDTO\\ShoppingDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\modelsDTO\\ShoppingDTO.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\DTO\\modelsDTO\\ShoppingDTO.cs",
+              "RelativeToolTip": "DTO\\modelsDTO\\ShoppingDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA1wA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:57:51.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ConvertersTable.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\Converters\\ConvertersTable.cs",
+              "RelativeDocumentMoniker": "Dal\\Converters\\ConvertersTable.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\Converters\\ConvertersTable.cs",
+              "RelativeToolTip": "Dal\\Converters\\ConvertersTable.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:52:15.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\DTO\\modelsDTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\modelsDTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\DTO\\modelsDTO\\ProductDTO.cs",
+              "RelativeToolTip": "DTO\\modelsDTO\\ProductDTO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:53:01.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WebApi\u0026angular.csproj",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\WebApi\u0026angular\\WebApi\u0026angular.csproj",
+              "RelativeDocumentMoniker": "WebApi\u0026angular\\WebApi\u0026angular.csproj",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\WebApi\u0026angular\\WebApi\u0026angular.csproj",
+              "RelativeToolTip": "WebApi\u0026angular\\WebApi\u0026angular.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T18:03:15.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\models\\Table.cs",
+              "RelativeDocumentMoniker": "Dal\\models\\Table.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\models\\Table.cs",
+              "RelativeToolTip": "Dal\\models\\Table.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:32:19.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\DTO\\modelsDTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\modelsDTO\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\DTO\\modelsDTO\\CategoryDTO.cs",
+              "RelativeToolTip": "DTO\\modelsDTO\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:16:07.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Shopping.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\models\\Shopping.cs",
+              "RelativeDocumentMoniker": "Dal\\models\\Shopping.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\models\\Shopping.cs",
+              "RelativeToolTip": "Dal\\models\\Shopping.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T14:41:33.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\DTO\\modelsDTO\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\modelsDTO\\CustomerDTO.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\DTO\\modelsDTO\\CustomerDTO.cs",
+              "RelativeToolTip": "DTO\\modelsDTO\\CustomerDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:15:53.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IBll.csproj",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\IBll\\IBll.csproj",
+              "RelativeDocumentMoniker": "IBll\\IBll.csproj",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\IBll\\IBll.csproj",
+              "RelativeToolTip": "IBll\\IBll.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-24T15:51:38.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ShoppingDetail.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\models\\ShoppingDetail.cs",
+              "RelativeDocumentMoniker": "Dal\\models\\ShoppingDetail.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05E4\u05E8\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angular\\project\\WebApi\u0026angular\\Dal\\models\\ShoppingDetail.cs",
+              "RelativeToolTip": "Dal\\models\\ShoppingDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T07:26:40.271Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+<!-- table.html -->
+<div class="tables-wrapper">
+  <h2 class="title">בחירת שולחן</h2>
+
+  <div class="restaurant-grid">
+    <div *ngFor="let table of tables$ | async"
+         [ngClass]="table.isOccupied ? 'occupied table-card' : 'free table-card'"
+         (click)="toggleTable(table)">
+
+      <span class="table-number">שולחן {{table.tableNumber}}</span>
+      <span class="status" *ngIf="table.isOccupied">תפוס</span>
+      <span class="status free-text" *ngIf="!table.isOccupied">פנוי</span>
+    </div>
+  </div>
+</div>

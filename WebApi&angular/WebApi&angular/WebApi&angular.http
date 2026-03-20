@@ -1,0 +1,6 @@
+@WebApi_angular_HostAddress = http://localhost:5227
+
+GET {{WebApi_angular_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

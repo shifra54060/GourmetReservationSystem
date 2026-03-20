@@ -1,0 +1,318 @@
+/* products.component.css */
+
+
+/* Header עם תמונה */
+/* Header עם תמונה */
+.ff-header {
+  width: 100%;
+  height: 400px;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  /* אפקט parallax */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  margin-bottom: 0;
+  /* ⬅️ לא מאפשר רווח מתחת לתמונה */
+  padding: 0;
+  /* ליתר ביטחון */
+}
+
+
+.ff-header-overlay {
+  background: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ff-header-overlay h1 {
+  color: white;
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* שאר ה-CSS נשאר כפי שהוא שלך */
+
+.ff-wrapper {
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+  direction: rtl;
+  background: #000;
+  min-height: 100vh;
+}
+
+/* Filters Section */
+.ff-filters {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 30px;
+  padding: 20px;
+  background: #1a1a1a;
+  border-radius: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.ff-select {
+  padding: 12px 20px;
+  border: 1px solid #333;
+  border-radius: 6px;
+  background: #000;
+  color: #fff;
+  font-size: 15px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  min-width: 180px;
+}
+
+.ff-select:hover {
+  border-color: #e74c3c;
+}
+
+.ff-select:focus {
+  outline: none;
+  border-color: #e74c3c;
+  box-shadow: 0 0 0 3px rgba(231, 76, 60, 0.1);
+}
+
+.ff-sort-btn {
+  padding: 12px 24px;
+  background: #e74c3c;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.ff-sort-btn:hover {
+  background: #c0392b;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(231, 76, 60, 0.3);
+}
+
+.ff-sort-arrow {
+  font-size: 12px;
+}
+
+/* Products Grid */
+.ff-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 30px;
+  margin-top: 20px;
+}
+
+/* Product Card */
+.ff-product {
+  background: #000;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(255, 255, 255, 0.1);
+  transition: all 0.3s ease;
+  position: relative;
+  border: 1px solid #222;
+}
+
+.ff-product:hover {
+  box-shadow: 0 8px 24px rgba(255, 255, 255, 0.15);
+  transform: translateY(-5px);
+  border-color: #333;
+}
+
+/* Thumbnail Section */
+.ff-thumb {
+  position: relative;
+  overflow: hidden;
+  background: #0a0a0a;
+  aspect-ratio: 1;
+}
+
+.ff-thumb-link {
+  display: block;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+
+.ff-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+.ff-product:hover .ff-img {
+  transform: scale(1.08);
+}
+
+/* Price Badge */
+.ff-badge {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background: #e74c3c;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 25px;
+  font-weight: bold;
+  font-size: 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  z-index: 2;
+}
+
+/* Hover Overlay */
+.ff-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.7);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 3;
+}
+
+.ff-product:hover .ff-overlay {
+  opacity: 1;
+}
+
+.ff-overlay-inner {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 20px;
+  transform: translateY(20px);
+  transition: transform 0.3s ease 0.1s;
+}
+
+.ff-product:hover .ff-overlay-inner {
+  transform: translateY(0);
+}
+
+/* Buttons */
+.ff-btn {
+  padding: 12px 30px;
+  border-radius: 6px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: none;
+  white-space: nowrap;
+}
+
+.ff-btn-outline {
+  background: transparent;
+  border: 2px solid white;
+  color: white;
+}
+
+.ff-btn-outline:hover {
+  background: white;
+  color: #333;
+}
+
+.ff-btn-primary {
+  background: #e74c3c;
+  color: white;
+}
+
+.ff-btn-primary:hover {
+  background: #c0392b;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(231, 76, 60, 0.4);
+}
+
+/* Product Info */
+.ff-info {
+  padding: 20px;
+  background: #000;
+}
+
+.ff-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #fff;
+  margin: 0 0 10px 0;
+  line-height: 1.3;
+}
+
+.ff-desc {
+  font-size: 14px;
+  color: #999;
+  margin: 0;
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* No Results */
+.ff-no-results {
+  grid-column: 1 / -1;
+  text-align: center;
+  padding: 60px 20px;
+  font-size: 18px;
+  color: #666;
+  background: #1a1a1a;
+  border-radius: 8px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .ff-grid {
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 20px;
+  }
+
+  .ff-filters {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .ff-select,
+  .ff-sort-btn {
+    width: 100%;
+  }
+
+  .ff-badge {
+    font-size: 14px;
+    padding: 6px 12px;
+  }
+
+  .ff-title {
+    font-size: 16px;
+  }
+
+  .ff-desc {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 480px) {
+  .ff-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .ff-wrapper {
+    padding: 15px;
+  }
+}

@@ -1,0 +1,50 @@
+<div class="register-container">
+  <h2>טופס הרשמה</h2>
+  <form [formGroup]="registerForm" (ngSubmit)="submitForm()">
+
+    <div class="form-group">
+      <label>שם מלא:</label>
+      <input type="text" formControlName="fullName" placeholder="שם מלא">
+      <div *ngIf="submitted && f['fullName'].errors" class="error">
+        <small *ngIf="f['fullName'].errors['required']">שדה חובה</small>
+        <small *ngIf="f['fullName'].errors['minlength']">שם קצר מדי</small>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label>טלפון:</label>
+      <input type="text" formControlName="phoneNumber" placeholder="טלפון">
+      <div *ngIf="submitted && f['phoneNumber'].errors" class="error">
+        <small *ngIf="f['phoneNumber'].errors['required']">שדה חובה</small>
+        <small *ngIf="f['phoneNumber'].errors['pattern']">מספר לא תקין</small>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label>אימייל:</label>
+      <input type="email" formControlName="email" placeholder="אימייל">
+      <div *ngIf="submitted && f['email'].errors" class="error">
+        <small *ngIf="f['email'].errors['required']">שדה חובה</small>
+        <small *ngIf="f['email'].errors['email']">אימייל לא חוקי</small>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label>תאריך לידה:</label>
+      <input type="date" formControlName="birthDate">
+      <div *ngIf="submitted && f['birthDate'].errors" class="error">
+        <small *ngIf="f['birthDate'].errors['required']">שדה חובה</small>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label>כתובת:</label>
+      <input type="text" formControlName="address" placeholder="כתובת">
+      <div *ngIf="submitted && f['address'].errors" class="error">
+        <small *ngIf="f['address'].errors['required']">שדה חובה</small>
+      </div>
+    </div>
+
+    <button type="submit">הרשמה</button>
+  </form>
+</div>

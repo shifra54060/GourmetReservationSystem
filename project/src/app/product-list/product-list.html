@@ -1,0 +1,52 @@
+<!-- products.component.html -->
+
+<!-- Header עם תמונה דינמית לפי קטגוריה -->
+<section class="ff-header" [ngStyle]="{'background-image': 'url(' + getCategoryImage() + ')'}">
+  <div class="ff-header-overlay">
+    <h1>{{ currentCategoryName || 'כל המוצרים' }}</h1>
+  </div>
+</section>
+
+<div class="ff-wrapper">
+  <div class="ff-filters">
+    <select (change)="filterByCategory($event)" class="ff-select">
+      <option value="0">כל הקטגוריות</option>
+      <option *ngFor="let cat of categories" [value]="cat.categoryCode">{{ cat.name }}</option>
+    </select>
+
+    <select (change)="filterBySize($event)" class="ff-select">
+      <option value="All">כל הגדלים</option>
+      <option *ngFor="let s of sizes" [value]="s">{{ s }}</option>
+    </select>
+
+    <button (click)="sortByPrice()" class="ff-sort-btn">
+      מיין לפי מחיר <span class="ff-sort-arrow">{{ sortAscending ? '▲' : '▼' }}</span>
+    </button>
+  </div>
+
+  <div class="ff-grid">
+    <article class="ff-product" *ngFor="let p of filteredProducts">
+      <div class="ff-thumb">
+        <a (click)="goToDetails(p.productCode)" class="ff-thumb-link" role="button">
+          <img [src]="serverBaseUrl + '/' + p.imageUrl" [alt]="p.name" class="ff-img">
+        </a>
+        <div class="ff-badge">
+          <span>{{ p.price | currency:'ILS':'symbol':'1.0-0' }}</span>
+        </div>
+        <div class="ff-overlay">
+          <div class="ff-overlay-inner">
+            <button (click)="goToDetails(p.productCode)" class="ff-btn ff-btn-outline">לפרטים</button>
+            <button (click)="myService.addToCart(p)" class="ff-btn ff-btn-primary">הוסף לסל</button>
+          </div>
+        </div>
+      </div>
+      <div class="ff-info">
+        <h3 class="ff-title">{{ p.name }}</h3>
+        <p class="ff-desc">{{ p.description }}</p>
+      </div>
+    </article>
+    <div *ngIf="filteredProducts.length === 0" class="ff-no-results">
+      לא נמצאו מוצרים תואמים.
+    </div>
+  </div>
+</div>

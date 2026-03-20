@@ -1,0 +1,152 @@
+/*
+ * עיצוב כללי של דף ההרשמה
+ */
+.register-container {
+    /* מיכל חיצוני שמרכז את התוכן */
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    /* יישור לחלק העליון (פחות ריק במסך) */
+    min-height: 90vh;
+    padding: 30px 20px;
+    /* פדינג קבוע */
+    background-color: #f7f7f7;
+    direction: rtl;
+    font-family: 'Open Sans', Arial, sans-serif;
+    width: 100%;
+    /* ממלא את הרוחב */
+    box-sizing: border-box;
+}
+
+/*
+ * מיכל הטופס הראשי (Card)
+ */
+.register-container>form {
+    /* מכוון ישירות לטופס כדי לעטוף אותו */
+    width: 100%;
+    max-width: 450px;
+    /* רוחב מעט צר יותר ונפוץ יותר לטפסים */
+    background-color: #fff;
+    padding: 30px;
+    border: 1px solid #e1e1e1;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    /* צל עדין יותר */
+    border-radius: 0;
+    /* ללא פינות מעוגלות */
+    margin: 0 auto;
+}
+
+/*
+ * כותרת הטופס
+ */
+.register-container h2 {
+    font-size: 26px;
+    /* גודל מעט קטן יותר */
+    font-weight: 700;
+    color: #3d5a80;
+    margin-bottom: 20px;
+    /* מרווח קטן יותר */
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+    /* קו הפרדה קל */
+}
+
+/*
+ * קבוצות השדות
+ */
+.form-group {
+    margin-bottom: 15px;
+    /* מרווח קטן יותר בין שדות */
+    text-align: right;
+}
+
+.form-group label {
+    display: block;
+    font-size: 14px;
+    /* גודל קטן יותר */
+    color: #555;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+/*
+ * שדות הקלט (כפתור ה-submit יכוון עכשיו דרך המחלקה שלו)
+ */
+.register-container input {
+    width: 100%;
+    padding: 10px 12px;
+    /* פדינג קטן יותר */
+    border: 1px solid #ccc;
+    border-radius: 0;
+    font-size: 16px;
+    box-sizing: border-box;
+    transition: border-color 0.2s;
+    background-color: #fff;
+    height: 38px;
+    /* גובה אחיד לכל סוגי הקלט */
+}
+
+.register-container input[type="date"] {
+    /* הסרת שינוי הגובה הקודם והסתמכות על הגובה הכללי */
+    height: 38px;
+}
+
+.register-container input:focus {
+    border-color: #3d5a80;
+    outline: none;
+    box-shadow: 0 0 3px rgba(61, 90, 128, 0.2);
+    /* צל קטן יותר */
+}
+
+/*
+ * כפתור ההרשמה הראשי
+ */
+.register-container button[type="submit"] {
+    width: 100%;
+    padding: 12px;
+    background-color: #3d5a80;
+    color: white;
+    border: none;
+    border-radius: 0;
+    font-size: 16px;
+    /* גודל קטן יותר */
+    font-weight: 600;
+    cursor: pointer;
+    margin-top: 20px;
+    /* מרווח גדול יותר לפני הכפתור */
+    transition: background-color 0.2s;
+}
+
+.register-container button[type="submit"]:hover {
+    background-color: #2b4562;
+}
+
+/*
+ * הודעות שגיאה
+ */
+.error {
+    text-align: right;
+    margin-top: 3px;
+    /* מרווח קטן יותר */
+}
+
+.error small {
+    color: #e74c3c;
+    font-size: 12px;
+    /* גודל קטן יותר לשגיאות */
+    display: block;
+}
+
+/*
+ * התאמות למסכים קטנים
+ */
+@media (max-width: 600px) {
+    .register-container {
+        padding: 15px;
+    }
+
+    .register-container>form {
+        padding: 20px 15px;
+    }
+}

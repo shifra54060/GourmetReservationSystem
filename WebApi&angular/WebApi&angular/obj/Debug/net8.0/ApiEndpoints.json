@@ -1,0 +1,205 @@
+[
+  {
+    "ContainingType": "WebApi_angular.Controllers.CategoryController",
+    "Method": "GetCategoriesAsync",
+    "RelativePath": "api/Category",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[DTO.modelsDTO.CategoryDTO, DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApi_angular.Controllers.CustomerController",
+    "Method": "RegisterAsync",
+    "RelativePath": "api/Customer/ByCustomer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "DTO.modelsDTO.CustomerDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DTO.modelsDTO.CustomerDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApi_angular.Controllers.CustomerController",
+    "Method": "GetCustomerByEmailAsync",
+    "RelativePath": "api/Customer/ByEmail/{email}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DTO.modelsDTO.CustomerDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApi_angular.Controllers.ProductsController",
+    "Method": "GetAllProductsAsync",
+    "RelativePath": "api/Products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[DTO.modelsDTO.ProductDTO, DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApi_angular.Controllers.ProductsController",
+    "Method": "GetByCategoryCodeAsync",
+    "RelativePath": "api/Products/ByCategoryCode/{CategoryCode}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CategoryCode",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[DTO.modelsDTO.ProductDTO, DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApi_angular.Controllers.ShoppingController",
+    "Method": "AddShoppingAsync",
+    "RelativePath": "api/Shopping",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "DTO.modelsDTO.ShoppingDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApi_angular.Controllers.ShoppingDetailController",
+    "Method": "AddShoppingDetailAsync",
+    "RelativePath": "api/ShoppingDetail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "DTO.modelsDTO.ShoppingDetailDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApi_angular.Controllers.TableController",
+    "Method": "GetAllTablesAsync",
+    "RelativePath": "api/Table",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[DTO.modelsDTO.TableDTO, DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApi_angular.Controllers.TableController",
+    "Method": "UpdateTableStatusAsync",
+    "RelativePath": "api/Table/ByStatusAndId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tableId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "isOccupied",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

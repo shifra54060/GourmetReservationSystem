@@ -1,0 +1,86 @@
+<div class="food-cart-container fine-dining-style">
+
+    <h2 class="cart-title">סל הקניות שלך</h2>
+
+    <div *ngIf="message" class="luxury-message">
+  {{ message }}
+</div>
+
+    <div *ngIf="cartItems.length === 0" class="empty-cart">
+        <p>הסל שלך ריק. הגיע הזמן לבחור את המנה המושלמת.</p>
+        <button class="primary-btn" (click)="router.navigate(['/product-list'])">מעבר לתפריט</button>
+    </div>
+
+    <div class="cart-layout-cols" *ngIf="cartItems.length > 0">
+
+        <div class="items-column">
+            <table class="food-cart-table">
+                <tbody>
+                    <tr *ngFor="let item of cartItems" class="food-cart-item-row">
+                        
+                        <td colspan="4" class="item-details-flex">
+                            <div class="image-placeholder">
+                                <img [src]="serverBaseUrl + '/' + item.imageUrl" alt="{{ item.name }}">
+                            </div>
+                            
+                            <div class="product-info-block">
+                                <p class="product-name">{{ item.name }}</p>
+                                <p class="product-price-unit">מחיר ליחידה: {{ item.price }} ₪</p>
+                            </div>
+                        </td>
+                        
+                        <td colspan="2" class="item-summary-actions">
+                            <div class="quantity-control-modern">
+                                <button class="qty-btn" (click)="removeFromCart(item.productCode)">–</button>
+                                <span class="qty-display">{{ item.quantity }}</span>
+                                <button class="qty-btn" (click)="addToCart(item)">+</button>
+                            </div>
+                            
+                            <p class="item-total-price">{{ item.price * item.quantity }} ₪</p>
+                            
+                            <button class="remove-btn" (click)="removeFromCart(item.productCode)">
+                                הסר
+                            </button>
+                        </td>
+
+                    </tr>
+                </tbody>
+            </table>
+
+            <button class="clear-cart-link-under-table" (click)="clearCart()">
+                נקה סל
+            </button>
+
+            <!-- כפתור צפייה בשולחנות משולב בעיצוב הקיים -->
+            <a routerLink="/tables" class="clear-cart-link-under-table" style="margin-top: 15px; display: inline-block;">
+                צפייה בשולחנות
+            </a>
+
+        </div>
+
+        <div class="summary-column">
+            <div class="summary-card">
+                <h3 class="summary-title">סיכום ההזמנה</h3>
+                
+                <div class="summary-line">
+                    <span>סה"כ לפריטים:</span>
+                    <span>{{ totalAmount }} ₪</span>
+                </div>
+                
+                <div class="summary-line delivery-fee">
+                    <span>דמי משלוח:</span>
+                    <span>30.00 ₪</span> 
+                </div>
+
+                <div class="summary-line total-line">
+                    <h3 class="total-label">סה"כ לתשלום:</h3>
+                    <h3 class="final-total">{{ totalAmount + 30 }} ₪</h3> 
+                </div>
+
+                <button class="primary-btn checkout-btn" (click)="submitOrder()">
+                    מעבר לתשלום
+                </button>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,107 @@
+/* עטיפה כללית */
+.tables-wrapper {
+    text-align: center;
+    padding: 40px;
+    direction: rtl;
+    font-family: 'Assistant', sans-serif;
+
+    /* רקע עם תמונה + גרדיאנט כהה מעל */
+    background: linear-gradient(180deg, rgba(17,17,17,0.7), rgba(0,0,0,0.7)),
+                url("/assets/restaurant/restaurant (4).jpg") no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+
+    min-height: 100vh;
+}
+
+
+.title {
+    font-size: 42px; 
+    color: #f4d27f;
+    font-weight: 800;
+    margin-bottom: 35px;
+    letter-spacing: 1px;
+    text-shadow: 0 0 12px rgba(255, 215, 120, 0.4);
+}
+
+/* רשת שולחנות */
+.restaurant-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr); /* תמיד 6 שולחנות בשורה */
+    gap: 20px;          /* רווח בין השולחנות */
+    padding: 90px;
+
+    justify-content: center; /* מרכז את כל הרשת */
+    justify-items: center;   /* מרכז כל שולחן */
+}
+
+/* הקופסה של השולחן */
+.table-card {
+    position: relative;
+    padding: 15px 8px;
+    border-radius: 22px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    background: rgba(255, 255, 255, 0.05);
+    border: 2px solid rgba(255, 215, 120, 0.25);
+    box-shadow: 0 7px 20px rgba(0,0,0,0.35);
+    backdrop-filter: blur(6px);
+    transition: all 0.35s ease;
+
+    width: 150%;      /* שולחן מתרחב כדי להתאים לעמודה */
+    max-width: 100px; /* גודל מקסימלי לכל שולחן */
+  
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* הובר */
+.table-card:hover {
+    transform: translateY(-8px) scale(1.05);
+    box-shadow: 0 15px 35px rgba(255, 215, 120, 0.25);
+}
+
+/* פנוי */
+.free {
+    background: linear-gradient(150deg, #2b3a29, #0a1a13);
+    border-color: #7affc1;
+    box-shadow: 0 0 18px rgba(90, 255, 185, 0.35);
+}
+
+.free:hover {
+    box-shadow: 0 0 22px rgba(90, 255, 185, 0.6);
+}
+
+/* תפוס */
+.occupied {
+    background: linear-gradient(150deg, #3a1a1a, #180808);
+    border-color: #ffb4b4;
+    box-shadow: 0 0 18px rgba(255, 120, 120, 0.35);
+}
+
+.occupied:hover {
+    box-shadow: 0 0 22px rgba(255, 120, 120, 0.6);
+}
+
+/* מספר שולחן */
+.table-number {
+    font-size: 24px;
+    margin-bottom: 8px;
+    color: #ffe9b0;
+    text-shadow: 0 0 6px rgba(255, 215, 120, 0.3);
+}
+
+/* סטטוס */
+.status {
+    font-size: 16px;
+    opacity: 0.95;
+}
+
+.free-text {
+    color: #c6ffdf;
+}

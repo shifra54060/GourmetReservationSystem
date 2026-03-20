@@ -1,0 +1,143 @@
+wwwroot\desert\desert (1).jpg
+wwwroot\desert\desert (10).jpg
+wwwroot\desert\desert (11).jpg
+wwwroot\desert\desert (12).jpg
+wwwroot\desert\desert (13).jpg
+wwwroot\desert\desert (14).jpg
+wwwroot\desert\desert (15).jpg
+wwwroot\desert\desert (16).jpg
+wwwroot\desert\desert (17).jpg
+wwwroot\desert\desert (18).jpg
+wwwroot\desert\desert (19).jpg
+wwwroot\desert\desert (2).jpg
+wwwroot\desert\desert (20).jpg
+wwwroot\desert\desert (21).jpg
+wwwroot\desert\desert (22).jpg
+wwwroot\desert\desert (23).jpg
+wwwroot\desert\desert (24).jpg
+wwwroot\desert\desert (25).jpg
+wwwroot\desert\desert (26).jpg
+wwwroot\desert\desert (27).jpg
+wwwroot\desert\desert (28).jpg
+wwwroot\desert\desert (29).jpg
+wwwroot\desert\desert (3).jpg
+wwwroot\desert\desert (30).jpg
+wwwroot\desert\desert (31).jpg
+wwwroot\desert\desert (4).jpg
+wwwroot\desert\desert (5).jpg
+wwwroot\desert\desert (6).jpg
+wwwroot\desert\desert (7).jpg
+wwwroot\desert\desert (8).jpg
+wwwroot\desert\desert (9).jpg
+wwwroot\fish\fish (1).jpg
+wwwroot\fish\fish (10).jpg
+wwwroot\fish\fish (11).jpg
+wwwroot\fish\fish (12).jpg
+wwwroot\fish\fish (13).jpg
+wwwroot\fish\fish (2).jpg
+wwwroot\fish\fish (3).jpg
+wwwroot\fish\fish (4).jpg
+wwwroot\fish\fish (5).jpg
+wwwroot\fish\fish (6).jpg
+wwwroot\fish\fish (7).jpg
+wwwroot\fish\fish (8).jpg
+wwwroot\fish\fish (9).jpg
+wwwroot\home (4).webp
+wwwroot\אוכל\065ae5552d011398d659446c0ce2a31c.jpg
+wwwroot\אוכל\150a3b8d0cd84cecf571568e89e13e28.jpg
+wwwroot\אוכל\1a7910d62842b04bfcf226b4c1fb487a.jpg
+wwwroot\אוכל\27b46359769fe75a84952c85d9594809.jpg
+wwwroot\אוכל\2b572375d5cbbc0590d97ab57e2737bd.jpg
+wwwroot\אוכל\326f99f2e170a68b3520c753d018b647.jpg
+wwwroot\אוכל\340266a5d19f55b97c717baaffdd6fcb.jpg
+wwwroot\אוכל\43e6f1c8b167d992e56c36ab60425ae1.jpg
+wwwroot\אוכל\5793aae2b2d8daf281d4e3d1c48ead58.jpg
+wwwroot\אוכל\638131cda1f2e1ec7e4e7a75e6a5b3b1.jpg
+wwwroot\אוכל\6e74eab1b1621000ba685d99d1b71967.jpg
+wwwroot\אוכל\70ff115c8aec11d3e44e266407f79224.jpg
+wwwroot\אוכל\854bb5b1b0ba0863142c9bc5e8cd93a0.jpg
+wwwroot\אוכל\909afd5b5356cb619face352b4b7850d.jpg
+wwwroot\אוכל\958961c73dee440663773952fd26b950.jpg
+wwwroot\אוכל\9ebe844be9e3b792d99478facd75a41d.jpg
+wwwroot\אוכל\a7c091dedc151a914ea9b935668048b5.jpg
+wwwroot\אוכל\a9958a4fd3daa70ccea78cc8f3efd5ab.jpg
+wwwroot\אוכל\b6894017adfe98e753212a823905880f.jpg
+wwwroot\אוכל\c23f51e0afb480559fa04688c9e42570.jpg
+wwwroot\אוכל\c4f3cf176463e321a00892f7a4e5d8f9.jpg
+wwwroot\אוכל\ca8492faf775b908a8531f8ddcd40078.jpg
+wwwroot\אוכל\cd67ea7d9a8ed5d8a9e99fbbe23ec443.jpg
+wwwroot\אוכל\d49e31a05fc1ac981845b76b738642a5.jpg
+wwwroot\אוכל\d8ec5443527be67791f6516104d03467.jpg
+wwwroot\אוכל\e2353ad6fbef3eeb21393013f56e1cfc.jpg
+wwwroot\אוכל\f6b5c9f636d2135def56dddc570ac43d.jpg
+wwwroot\אוכל\fa74a1051787c3d9ce707215be6eedd8.jpg
+wwwroot\אוכל\ff3ed47dcafd4f7a624d6a4fcce9e870.jpg
+wwwroot\ארוחת בוקר\14ef9834f262edb84d3dd1407eb3540c.jpg
+wwwroot\ארוחת בוקר\1d0485df9c3e4aa542b713968fb33ea7.jpg
+wwwroot\ארוחת בוקר\3387d7877c0b94b25b47bbbde123f5cd.jpg
+wwwroot\ארוחת בוקר\721b24a7ca700214840030d8eb012376.jpg
+wwwroot\ארוחת בוקר\8b02c43fe105890de81bfd63b651ebe1.jpg
+wwwroot\ארוחת בוקר\b08a1b64953420677d9a1f8f2552b428.jpg
+wwwroot\ארוחת בוקר\cc21b834cbe47c399a77de01c0c3961a.jpg
+wwwroot\ארוחת בוקר\eac978c6f5cef1b0e769ab49f5bff07f.jpg
+wwwroot\ארוחת בוקר\f881b072a18fefa2871b0ae0e5401ad4.jpg
+wwwroot\ארוחת בוקר\fc4015c285c8df846d1cac6ca0df9466.jpg
+wwwroot\חלבי\0851539e75a2b594a32586900b222f44.jpg
+wwwroot\חלבי\0a2fbe1c27ec13f40d16ddc211eb823f.jpg
+wwwroot\חלבי\2a66daa4b679d2bb336134e115f325c3.jpg
+wwwroot\חלבי\3416c331029871750487603183cf1b7a.jpg
+wwwroot\חלבי\3be9851c849f18203892bec362d56222.jpg
+wwwroot\חלבי\3f36c147bc85a85f2f15cdbdb51af182.jpg
+wwwroot\חלבי\5ecab06edf70427ad709995cc20175f9.jpg
+wwwroot\חלבי\6f88d80d55248daa4647671ac7906d7c.jpg
+wwwroot\חלבי\b4efa7eb0e5e0717565f1dbe55bf159d.jpg
+wwwroot\חלבי\bf262c11f4f1e35f48071d2623418009.jpg
+wwwroot\חלבי\d1ddd5bfed1cbee47c856e26ebe957bb.jpg
+wwwroot\חלבי\d895363f92fa897df84de17c60bbd20d.jpg
+wwwroot\טבעוני\04d95b88a658fedc24fcd60d112dbc0c.jpg
+wwwroot\טבעוני\190811648b5c92aabdd2ebf8655f2540.jpg
+wwwroot\טבעוני\2c0761bc3b1bfa9d1a90c65c0789b3ae.jpg
+wwwroot\טבעוני\3cc898506666f472cfb849fdfac11977.jpg
+wwwroot\טבעוני\3cd4ee5acad3a07d1a1419b3ebc11f33.jpg
+wwwroot\טבעוני\4538dc98c14e9d8fcfa92465ce5b4c22.jpg
+wwwroot\טבעוני\4d5cf76e11a36ce56b6f6ded0a7d3a11.jpg
+wwwroot\טבעוני\4f0620ecc3c59b7cef9da14c1098e940.jpg
+wwwroot\טבעוני\4fce3f5d7d70ce77e802891877d3917d.jpg
+wwwroot\טבעוני\52a15dbd93597ab21d8c4fb1880c4df4.jpg
+wwwroot\טבעוני\65282c2324250e9e53eda79e33243ce8.jpg
+wwwroot\טבעוני\6776fbbd0702898676ce43db77f8479d.jpg
+wwwroot\טבעוני\6c05eccb6cd845fbaadd6b03402deb53.jpg
+wwwroot\טבעוני\9c181820beec59db7decae16bad9c2f8.jpg
+wwwroot\טבעוני\9f4c61610dfe159366163c063632a4e8.jpg
+wwwroot\טבעוני\a7b768fe2d4b1e5a253d071e7aac0207.jpg
+wwwroot\טבעוני\ad545fd3d7d355dca79b8e97116bb1cc.jpg
+wwwroot\טבעוני\ad834af31e58f98073f62f7f6ed09309.jpg
+wwwroot\טבעוני\ca7481bf76d4448021785d337e21ec26.jpg
+wwwroot\טבעוני\e6970e5ea5ef4a97022b76edfc1f029f.jpg
+wwwroot\משקאות\033e54b548b9f09cfc403f1a2be6106a.jpg
+wwwroot\משקאות\1735ccad349e4aa0addd9f37ed9b5c40.jpg
+wwwroot\משקאות\2273ec1df97c61688db7bdd30d34b0ea.jpg
+wwwroot\משקאות\4ef370df00bc4064e86e6b5fa1d4a2da.jpg
+wwwroot\משקאות\4fb86d3670bc558689ea3d0b7daf62a7.jpg
+wwwroot\משקאות\7aa2464ae0893e194ac5acd25d96342e.jpg
+wwwroot\משקאות\8b1729907d09b4e170d8424faba48e3a.jpg
+wwwroot\משקאות\94e73bdb6adfb65ccecfc6ea3f130ebc.jpg
+wwwroot\משקאות\968499926bf4ebf38752e138097172c9.jpg
+wwwroot\משקאות\9e41ed3c2f7036431df4afd7a36435bb.jpg
+wwwroot\משקאות\a1e72e9da388f8638322da5e4c6db2b2.jpg
+wwwroot\משקאות\bc807a525cc0482b14666be3c06941d6.jpg
+wwwroot\משקאות\c4590d28f71bee7c70adefdb19791324.jpg
+wwwroot\משקאות\d656e4d0478c35493a037ee447f08a51.jpg
+wwwroot\סלטים שף\027b6e1206a65a149a4ae6ca9cd47573.jpg
+wwwroot\סלטים שף\05e93e0b3727e32f4e3d47735a8d2d54.jpg
+wwwroot\סלטים שף\27ba664c7b7b5d3a1a58fa12a9f773b9.jpg
+wwwroot\סלטים שף\35d0814050ea05f0e2333f2f480e1cd4.jpg
+wwwroot\סלטים שף\534e2a8f8f2795cc2d4ae86e78a6695b.jpg
+wwwroot\סלטים שף\546193cebe2fef7664586425ce353049.jpg
+wwwroot\סלטים שף\9b2a9c353b4b1697c9e47aa9250c761e.jpg
+wwwroot\סלטים שף\b812ebb49362998df9ad5c059eb094c1.jpg
+wwwroot\סלטים שף\b9e6f3b09b063c07d55232f10c0f75bd.jpg
+wwwroot\סלטים שף\daf3be1d2f8166a5c467f6a019da1c31.jpg
+wwwroot\סלטים שף\db6a28fd0a58f32a4d4791d8a779cdec.jpg
+wwwroot\סלטים שף\debbe3061a2a998c9d53aad03da01fba.jpg
+wwwroot\סלטים שף\e84e798dae246176d27e0f92b8497de7.jpg

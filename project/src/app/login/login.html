@@ -1,0 +1,28 @@
+<div class="auth-page-container">
+    <div class="login-card">
+        
+        <h2 class="login-title">כניסת לקוחות</h2>
+        <p class="login-subtitle">התחבר/י כדי לצפות בהיסטוריית ההזמנות.</p>
+
+        <form (ngSubmit)="login()" class="login-form">
+            
+            <div class="input-group">
+                <input 
+                    type="email" 
+                    placeholder="כתובת אימייל" 
+                    [(ngModel)]="email" 
+                    name="email" 
+                    required 
+                    class="modern-input"
+                >
+            </div>
+            
+            <button type="submit" class="submit-btn primary-action">התחבר</button>
+            
+            <p class="auxiliary-link">
+                אין לך חשבון? <a [routerLink]="['/register']">הירשם/י עכשיו</a>
+            </p>
+
+        </form>
+    </div>
+</div>
